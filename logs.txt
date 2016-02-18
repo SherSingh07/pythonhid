@@ -1,0 +1,3370 @@
+bLength                 :  18
+bDescriptorType         :  1
+bcdUSB                  :  272
+bDeviceClass            :  0
+bDeviceSubClass         :  0
+bDeviceProtocol         :  0
+bMaxPacketSize0         :  8
+idProduct               :  560
+iManufacturer           :  0
+iProduct                :  2
+iSerialNumber           :  0
+bNumConfigurations      :  1
+[WARNING] :: Failed to claim interface
+
+actual_length=0
+
+actual_length=4
+(513, 384)
+click= 0
+
+actual_length=4
+(513, 384)
+click= 0
+
+actual_length=4
+(517, 384)
+click= 0
+
+actual_length=4
+(523, 384)
+click= 0
+
+actual_length=4
+(533, 384)
+click= 0
+
+actual_length=4
+(544, 384)
+click= 0
+
+actual_length=4
+(558, 383)
+click= 0
+
+actual_length=4
+(574, 382)
+click= 0
+
+actual_length=4
+(592, 379)
+click= 0
+
+actual_length=4
+(609, 376)
+click= 0
+
+actual_length=4
+(624, 373)
+click= 0
+
+actual_length=4
+(635, 370)
+click= 0
+
+actual_length=4
+(644, 367)
+click= 0
+
+actual_length=4
+(650, 364)
+click= 0
+
+actual_length=4
+(650, 364)
+click= 0
+
+actual_length=4
+(650, 363)
+click= 0
+
+actual_length=4
+(650, 362)
+click= 0
+
+actual_length=4
+(653, 358)
+click= 0
+
+actual_length=4
+(656, 355)
+click= 0
+
+actual_length=4
+(658, 350)
+click= 0
+
+actual_length=4
+(661, 345)
+click= 0
+
+actual_length=4
+(664, 339)
+click= 0
+
+actual_length=4
+(668, 331)
+click= 0
+
+actual_length=4
+(672, 324)
+click= 0
+
+actual_length=4
+(677, 317)
+click= 0
+
+actual_length=4
+(680, 312)
+click= 0
+
+actual_length=4
+(684, 307)
+click= 0
+
+actual_length=4
+(689, 302)
+click= 0
+
+actual_length=4
+(696, 297)
+click= 0
+
+actual_length=4
+(703, 293)
+click= 0
+
+actual_length=4
+(712, 290)
+click= 0
+
+actual_length=4
+(722, 287)
+click= 0
+
+actual_length=4
+(734, 283)
+click= 0
+
+actual_length=4
+(747, 279)
+click= 0
+
+actual_length=4
+(762, 275)
+click= 0
+
+actual_length=4
+(779, 271)
+click= 0
+
+actual_length=4
+(797, 268)
+click= 0
+
+actual_length=4
+(818, 265)
+click= 0
+
+actual_length=4
+(841, 261)
+click= 0
+
+actual_length=4
+(864, 259)
+click= 0
+
+actual_length=4
+(889, 257)
+click= 0
+
+actual_length=4
+(916, 256)
+click= 0
+
+actual_length=4
+(943, 255)
+click= 0
+
+actual_length=4
+(970, 255)
+click= 0
+
+actual_length=4
+(999, 255)
+click= 0
+
+actual_length=4
+(1024, 257)
+click= 0
+
+actual_length=4
+(1024, 260)
+click= 0
+
+actual_length=4
+(1024, 265)
+click= 0
+
+actual_length=4
+(1024, 271)
+click= 0
+
+actual_length=4
+(1024, 278)
+click= 0
+
+actual_length=4
+(1024, 287)
+click= 0
+
+actual_length=4
+(1024, 298)
+click= 0
+
+actual_length=4
+(1024, 309)
+click= 0
+
+actual_length=4
+(1024, 321)
+click= 0
+
+actual_length=4
+(1024, 333)
+click= 0
+
+actual_length=4
+(1024, 347)
+click= 0
+
+actual_length=4
+(1024, 362)
+click= 0
+
+actual_length=4
+(1024, 378)
+click= 0
+
+actual_length=4
+(1024, 396)
+click= 0
+
+actual_length=4
+(1024, 415)
+click= 0
+
+actual_length=4
+(1024, 436)
+click= 0
+
+actual_length=4
+(1024, 460)
+click= 0
+
+actual_length=4
+(1024, 487)
+click= 0
+
+actual_length=4
+(1024, 516)
+click= 0
+
+actual_length=4
+(1024, 548)
+click= 0
+
+actual_length=4
+(1024, 581)
+click= 0
+
+actual_length=4
+(1024, 615)
+click= 0
+
+actual_length=4
+(1024, 650)
+click= 0
+
+actual_length=4
+(1024, 684)
+click= 0
+
+actual_length=4
+(1021, 719)
+click= 0
+
+actual_length=4
+(1016, 752)
+click= 0
+
+actual_length=4
+(1010, 768)
+click= 0
+
+actual_length=4
+(1003, 768)
+click= 0
+
+actual_length=4
+(996, 768)
+click= 0
+
+actual_length=4
+(988, 768)
+click= 0
+
+actual_length=4
+(980, 768)
+click= 0
+
+actual_length=4
+(971, 768)
+click= 0
+
+actual_length=4
+(961, 768)
+click= 0
+
+actual_length=4
+(950, 768)
+click= 0
+
+actual_length=4
+(938, 768)
+click= 0
+
+actual_length=4
+(925, 768)
+click= 0
+
+actual_length=4
+(909, 768)
+click= 0
+
+actual_length=4
+(891, 768)
+click= 0
+
+actual_length=4
+(871, 768)
+click= 0
+
+actual_length=4
+(851, 768)
+click= 0
+
+actual_length=4
+(830, 768)
+click= 0
+
+actual_length=4
+(808, 768)
+click= 0
+
+actual_length=4
+(787, 768)
+click= 0
+
+actual_length=4
+(765, 768)
+click= 0
+
+actual_length=4
+(745, 768)
+click= 0
+
+actual_length=4
+(726, 768)
+click= 0
+
+actual_length=4
+(708, 768)
+click= 0
+
+actual_length=4
+(691, 768)
+click= 0
+
+actual_length=4
+(675, 768)
+click= 0
+
+actual_length=4
+(659, 768)
+click= 0
+
+actual_length=4
+(642, 768)
+click= 0
+
+actual_length=4
+(625, 768)
+click= 0
+
+actual_length=4
+(608, 768)
+click= 0
+
+actual_length=4
+(589, 768)
+click= 0
+
+actual_length=4
+(569, 768)
+click= 0
+
+actual_length=4
+(549, 768)
+click= 0
+
+actual_length=4
+(530, 768)
+click= 0
+
+actual_length=4
+(510, 768)
+click= 0
+
+actual_length=4
+(490, 766)
+click= 0
+
+actual_length=4
+(470, 764)
+click= 0
+
+actual_length=4
+(449, 761)
+click= 0
+
+actual_length=4
+(429, 757)
+click= 0
+
+actual_length=4
+(409, 752)
+click= 0
+
+actual_length=4
+(387, 747)
+click= 0
+
+actual_length=4
+(364, 740)
+click= 0
+
+actual_length=4
+(341, 734)
+click= 0
+
+actual_length=4
+(316, 727)
+click= 0
+
+actual_length=4
+(289, 720)
+click= 0
+
+actual_length=4
+(263, 712)
+click= 0
+
+actual_length=4
+(235, 705)
+click= 0
+
+actual_length=4
+(208, 697)
+click= 0
+
+actual_length=4
+(181, 689)
+click= 0
+
+actual_length=4
+(154, 682)
+click= 0
+
+actual_length=4
+(128, 674)
+click= 0
+
+actual_length=4
+(103, 667)
+click= 0
+
+actual_length=4
+(82, 660)
+click= 0
+
+actual_length=4
+(61, 653)
+click= 0
+
+actual_length=4
+(43, 646)
+click= 0
+
+actual_length=4
+(26, 639)
+click= 0
+
+actual_length=4
+(11, 630)
+click= 0
+
+actual_length=4
+(0, 621)
+click= 0
+
+actual_length=4
+(0, 610)
+click= 0
+
+actual_length=4
+(0, 598)
+click= 0
+
+actual_length=4
+(0, 584)
+click= 0
+
+actual_length=4
+(0, 570)
+click= 0
+
+actual_length=4
+(0, 555)
+click= 0
+
+actual_length=4
+(0, 539)
+click= 0
+
+actual_length=4
+(0, 523)
+click= 0
+
+actual_length=4
+(0, 506)
+click= 0
+
+actual_length=4
+(0, 489)
+click= 0
+
+actual_length=4
+(0, 472)
+click= 0
+
+actual_length=4
+(0, 455)
+click= 0
+
+actual_length=4
+(0, 438)
+click= 0
+
+actual_length=4
+(0, 421)
+click= 0
+
+actual_length=4
+(0, 404)
+click= 0
+
+actual_length=4
+(0, 387)
+click= 0
+
+actual_length=4
+(0, 370)
+click= 0
+
+actual_length=4
+(0, 354)
+click= 0
+
+actual_length=4
+(0, 337)
+click= 0
+
+actual_length=4
+(2, 320)
+click= 0
+
+actual_length=4
+(4, 304)
+click= 0
+
+actual_length=4
+(8, 288)
+click= 0
+
+actual_length=4
+(13, 271)
+click= 0
+
+actual_length=4
+(19, 255)
+click= 0
+
+actual_length=4
+(27, 238)
+click= 0
+
+actual_length=4
+(37, 222)
+click= 0
+
+actual_length=4
+(46, 207)
+click= 0
+
+actual_length=4
+(57, 191)
+click= 0
+
+actual_length=4
+(68, 177)
+click= 0
+
+actual_length=4
+(78, 163)
+click= 0
+
+actual_length=4
+(88, 151)
+click= 0
+
+actual_length=4
+(99, 139)
+click= 0
+
+actual_length=4
+(109, 129)
+click= 0
+
+actual_length=4
+(119, 120)
+click= 0
+
+actual_length=4
+(130, 111)
+click= 0
+
+actual_length=4
+(140, 103)
+click= 0
+
+actual_length=4
+(150, 97)
+click= 0
+
+actual_length=4
+(161, 91)
+click= 0
+
+actual_length=4
+(171, 86)
+click= 0
+
+actual_length=4
+(182, 82)
+click= 0
+
+actual_length=4
+(194, 80)
+click= 0
+
+actual_length=4
+(206, 78)
+click= 0
+
+actual_length=4
+(217, 76)
+click= 0
+
+actual_length=4
+(230, 75)
+click= 0
+
+actual_length=4
+(243, 75)
+click= 0
+
+actual_length=4
+(254, 75)
+click= 0
+
+actual_length=4
+(265, 75)
+click= 0
+
+actual_length=4
+(274, 75)
+click= 0
+
+actual_length=4
+(281, 75)
+click= 0
+
+actual_length=4
+(287, 76)
+click= 0
+
+actual_length=4
+(291, 77)
+click= 0
+
+actual_length=4
+(294, 78)
+click= 0
+
+actual_length=4
+(295, 80)
+click= 0
+
+actual_length=4
+(295, 83)
+click= 0
+
+actual_length=4
+(296, 86)
+click= 0
+
+actual_length=4
+(296, 88)
+click= 0
+
+actual_length=4
+(296, 91)
+click= 0
+
+actual_length=4
+(296, 94)
+click= 0
+
+actual_length=4
+(296, 97)
+click= 0
+
+actual_length=4
+(296, 100)
+click= 0
+
+actual_length=4
+(295, 103)
+click= 0
+
+actual_length=4
+(295, 105)
+click= 0
+
+actual_length=4
+(294, 106)
+click= 0
+
+actual_length=4
+(294, 107)
+click= 0
+
+actual_length=4
+(293, 108)
+click= 0
+
+actual_length=4
+(293, 108)
+click= 0
+
+actual_length=4
+(293, 108)
+click= 1
+
+actual_length=4
+(293, 108)
+click= 0
+
+actual_length=4
+(293, 108)
+click= 1
+
+actual_length=4
+(293, 108)
+click= 0
+
+actual_length=4
+(294, 108)
+click= 0
+
+actual_length=4
+(294, 108)
+click= 0
+
+actual_length=4
+(295, 108)
+click= 0
+
+actual_length=4
+(296, 108)
+click= 0
+
+actual_length=4
+(297, 108)
+click= 0
+
+actual_length=4
+(299, 108)
+click= 0
+
+actual_length=4
+(301, 107)
+click= 0
+
+actual_length=4
+(304, 106)
+click= 0
+
+actual_length=4
+(308, 106)
+click= 0
+
+actual_length=4
+(313, 105)
+click= 0
+
+actual_length=4
+(319, 104)
+click= 0
+
+actual_length=4
+(325, 103)
+click= 0
+
+actual_length=4
+(333, 103)
+click= 0
+
+actual_length=4
+(341, 103)
+click= 0
+
+actual_length=4
+(349, 102)
+click= 0
+
+actual_length=4
+(358, 102)
+click= 0
+
+actual_length=4
+(368, 102)
+click= 0
+
+actual_length=4
+(378, 102)
+click= 0
+
+actual_length=4
+(388, 102)
+click= 0
+
+actual_length=4
+(399, 102)
+click= 0
+
+actual_length=4
+(410, 102)
+click= 0
+
+actual_length=4
+(422, 102)
+click= 0
+
+actual_length=4
+(434, 102)
+click= 0
+
+actual_length=4
+(447, 102)
+click= 0
+
+actual_length=4
+(460, 102)
+click= 0
+
+actual_length=4
+(474, 102)
+click= 0
+
+actual_length=4
+(487, 102)
+click= 0
+
+actual_length=4
+(501, 102)
+click= 0
+
+actual_length=4
+(515, 102)
+click= 0
+
+actual_length=4
+(528, 102)
+click= 0
+
+actual_length=4
+(540, 103)
+click= 0
+
+actual_length=4
+(552, 104)
+click= 0
+
+actual_length=4
+(564, 105)
+click= 0
+
+actual_length=4
+(574, 107)
+click= 0
+
+actual_length=4
+(585, 109)
+click= 0
+
+actual_length=4
+(595, 112)
+click= 0
+
+actual_length=4
+(605, 116)
+click= 0
+
+actual_length=4
+(616, 120)
+click= 0
+
+actual_length=4
+(625, 125)
+click= 0
+
+actual_length=4
+(634, 130)
+click= 0
+
+actual_length=4
+(642, 135)
+click= 0
+
+actual_length=4
+(649, 140)
+click= 0
+
+actual_length=4
+(656, 146)
+click= 0
+
+actual_length=4
+(661, 152)
+click= 0
+
+actual_length=4
+(665, 158)
+click= 0
+
+actual_length=4
+(668, 165)
+click= 0
+
+actual_length=4
+(670, 170)
+click= 0
+
+actual_length=4
+(672, 177)
+click= 0
+
+actual_length=4
+(673, 183)
+click= 0
+
+actual_length=4
+(673, 190)
+click= 0
+
+actual_length=4
+(673, 197)
+click= 0
+
+actual_length=4
+(673, 202)
+click= 0
+
+actual_length=4
+(673, 207)
+click= 0
+
+actual_length=4
+(673, 211)
+click= 0
+
+actual_length=4
+(673, 215)
+click= 0
+
+actual_length=4
+(673, 215)
+click= 0
+
+actual_length=4
+(673, 215)
+click= 2
+
+actual_length=4
+(673, 215)
+click= 0
+
+actual_length=4
+(673, 216)
+click= 0
+
+actual_length=4
+(673, 216)
+click= 0
+
+actual_length=4
+(673, 217)
+click= 0
+
+actual_length=4
+(673, 217)
+click= 0
+
+actual_length=4
+(673, 217)
+click= 1
+
+actual_length=4
+(673, 217)
+click= 0
+
+actual_length=4
+(673, 217)
+click= 2
+
+actual_length=4
+(673, 217)
+click= 1
+
+actual_length=4
+(673, 217)
+click= 0
+
+actual_length=4
+(674, 217)
+click= 0
+
+actual_length=4
+(674, 217)
+click= 0
+
+actual_length=4
+(675, 216)
+click= 0
+
+actual_length=4
+(676, 215)
+click= 0
+
+actual_length=4
+(677, 214)
+click= 0
+
+actual_length=4
+(678, 213)
+click= 0
+
+actual_length=4
+(679, 212)
+click= 0
+
+actual_length=4
+(681, 210)
+click= 0
+
+actual_length=4
+(682, 209)
+click= 0
+
+actual_length=4
+(683, 208)
+click= 0
+
+actual_length=4
+(684, 207)
+click= 0
+
+actual_length=4
+(685, 206)
+click= 0
+
+actual_length=4
+(686, 205)
+click= 0
+
+actual_length=4
+(687, 204)
+click= 0
+
+actual_length=4
+(687, 203)
+click= 0
+
+actual_length=4
+(688, 203)
+click= 0
+
+actual_length=4
+(689, 202)
+click= 0
+
+actual_length=4
+(690, 202)
+click= 0
+
+actual_length=4
+(690, 202)
+click= 0
+
+actual_length=4
+(689, 202)
+click= 0
+
+actual_length=4
+(689, 202)
+click= 0
+
+actual_length=4
+(688, 202)
+click= 0
+
+actual_length=4
+(687, 202)
+click= 0
+
+actual_length=4
+(686, 202)
+click= 0
+
+actual_length=4
+(684, 202)
+click= 0
+
+actual_length=4
+(682, 202)
+click= 0
+
+actual_length=4
+(680, 202)
+click= 0
+
+actual_length=4
+(677, 202)
+click= 0
+
+actual_length=4
+(674, 201)
+click= 0
+
+actual_length=4
+(669, 200)
+click= 0
+
+actual_length=4
+(663, 199)
+click= 0
+
+actual_length=4
+(656, 197)
+click= 0
+
+actual_length=4
+(646, 195)
+click= 0
+
+actual_length=4
+(633, 193)
+click= 0
+
+actual_length=4
+(616, 189)
+click= 0
+
+actual_length=4
+(594, 185)
+click= 0
+
+actual_length=4
+(568, 179)
+click= 0
+
+actual_length=4
+(538, 172)
+click= 0
+
+actual_length=4
+(503, 164)
+click= 0
+
+actual_length=4
+(464, 155)
+click= 0
+
+actual_length=4
+(422, 144)
+click= 0
+
+actual_length=4
+(377, 133)
+click= 0
+
+actual_length=4
+(331, 121)
+click= 0
+
+actual_length=4
+(285, 109)
+click= 0
+
+actual_length=4
+(238, 96)
+click= 0
+
+actual_length=4
+(190, 84)
+click= 0
+
+actual_length=4
+(141, 71)
+click= 0
+
+actual_length=4
+(93, 58)
+click= 0
+
+actual_length=4
+(46, 45)
+click= 0
+
+actual_length=4
+(1, 32)
+click= 0
+
+actual_length=4
+(0, 18)
+click= 0
+
+actual_length=4
+(0, 3)
+click= 0
+
+actual_length=4
+(0, 0)
+click= 0
+
+actual_length=4
+(0, 0)
+click= 0
+
+actual_length=4
+(0, 0)
+click= 0
+
+actual_length=4
+(0, 0)
+click= 0
+
+actual_length=4
+(0, 0)
+click= 0
+
+actual_length=4
+(0, 0)
+click= 0
+
+actual_length=4
+(0, 0)
+click= 0
+
+actual_length=4
+(0, 0)
+click= 0
+
+actual_length=4
+(0, 0)
+click= 0
+
+actual_length=4
+(0, 0)
+click= 0
+
+actual_length=4
+(0, 0)
+click= 0
+
+actual_length=4
+(0, 0)
+click= 0
+
+actual_length=4
+(0, 0)
+click= 0
+
+actual_length=4
+(0, 0)
+click= 0
+
+actual_length=4
+(0, 0)
+click= 0
+
+actual_length=4
+(0, 0)
+click= 0
+
+actual_length=4
+(0, 0)
+click= 0
+
+actual_length=4
+(0, 0)
+click= 0
+
+actual_length=4
+(0, 0)
+click= 0
+
+actual_length=4
+(0, 0)
+click= 0
+
+actual_length=4
+(0, 0)
+click= 0
+
+actual_length=4
+(0, 0)
+click= 0
+
+actual_length=4
+(0, 0)
+click= 0
+
+actual_length=4
+(0, 0)
+click= 0
+
+actual_length=4
+(0, 0)
+click= 0
+
+actual_length=4
+(0, 0)
+click= 0
+
+actual_length=4
+(0, 0)
+click= 0
+
+actual_length=4
+(0, 0)
+click= 0
+
+actual_length=4
+(0, 0)
+click= 0
+
+actual_length=4
+(0, 0)
+click= 0
+
+actual_length=4
+(0, 0)
+click= 0
+
+actual_length=4
+(0, 0)
+click= 0
+
+actual_length=4
+(0, 0)
+click= 0
+
+actual_length=4
+(0, 0)
+click= 0
+
+actual_length=4
+(0, 0)
+click= 0
+
+actual_length=4
+(0, 0)
+click= 0
+
+actual_length=4
+(0, 0)
+click= 0
+
+actual_length=4
+(0, 0)
+click= 0
+
+actual_length=4
+(0, 0)
+click= 0
+
+actual_length=4
+(0, 0)
+click= 0
+
+actual_length=4
+(0, 0)
+click= 0
+
+actual_length=4
+(1, 0)
+click= 0
+
+actual_length=4
+(5, 0)
+click= 0
+
+actual_length=4
+(11, 0)
+click= 0
+
+actual_length=4
+(20, 0)
+click= 0
+
+actual_length=4
+(33, 0)
+click= 0
+
+actual_length=4
+(49, 0)
+click= 0
+
+actual_length=4
+(71, 0)
+click= 0
+
+actual_length=4
+(97, 0)
+click= 0
+
+actual_length=4
+(127, 0)
+click= 0
+
+actual_length=4
+(160, 0)
+click= 0
+
+actual_length=4
+(197, 0)
+click= 0
+
+actual_length=4
+(234, 0)
+click= 0
+
+actual_length=4
+(274, 0)
+click= 0
+
+actual_length=4
+(314, 0)
+click= 0
+
+actual_length=4
+(355, 0)
+click= 0
+
+actual_length=4
+(398, 0)
+click= 0
+
+actual_length=4
+(442, 0)
+click= 0
+
+actual_length=4
+(489, 0)
+click= 0
+
+actual_length=4
+(539, 0)
+click= 0
+
+actual_length=4
+(591, 0)
+click= 0
+
+actual_length=4
+(646, 0)
+click= 0
+
+actual_length=4
+(704, 0)
+click= 0
+
+actual_length=4
+(766, 1)
+click= 0
+
+actual_length=4
+(830, 6)
+click= 0
+
+actual_length=4
+(896, 12)
+click= 0
+
+actual_length=4
+(964, 21)
+click= 0
+
+actual_length=4
+(1024, 32)
+click= 0
+
+actual_length=4
+(1024, 46)
+click= 0
+
+actual_length=4
+(1024, 63)
+click= 0
+
+actual_length=4
+(1024, 83)
+click= 0
+
+actual_length=4
+(1024, 104)
+click= 0
+
+actual_length=4
+(1024, 126)
+click= 0
+
+actual_length=4
+(1024, 149)
+click= 0
+
+actual_length=4
+(1024, 174)
+click= 0
+
+actual_length=4
+(1024, 201)
+click= 0
+
+actual_length=4
+(1024, 229)
+click= 0
+
+actual_length=4
+(1024, 259)
+click= 0
+
+actual_length=4
+(1024, 290)
+click= 0
+
+actual_length=4
+(1024, 323)
+click= 0
+
+actual_length=4
+(1024, 357)
+click= 0
+
+actual_length=4
+(1024, 393)
+click= 0
+
+actual_length=4
+(1024, 429)
+click= 0
+
+actual_length=4
+(1024, 466)
+click= 0
+
+actual_length=4
+(1024, 504)
+click= 0
+
+actual_length=4
+(1024, 543)
+click= 0
+
+actual_length=4
+(1024, 582)
+click= 0
+
+actual_length=4
+(1024, 621)
+click= 0
+
+actual_length=4
+(1024, 662)
+click= 0
+
+actual_length=4
+(1024, 703)
+click= 0
+
+actual_length=4
+(1024, 745)
+click= 0
+
+actual_length=4
+(1024, 768)
+click= 0
+
+actual_length=4
+(1024, 768)
+click= 0
+
+actual_length=4
+(1024, 768)
+click= 0
+
+actual_length=4
+(1024, 768)
+click= 0
+
+actual_length=4
+(1024, 768)
+click= 0
+
+actual_length=4
+(1024, 768)
+click= 0
+
+actual_length=4
+(1024, 768)
+click= 0
+
+actual_length=4
+(1024, 768)
+click= 0
+
+actual_length=4
+(1024, 768)
+click= 0
+
+actual_length=4
+(1024, 768)
+click= 0
+
+actual_length=4
+(1024, 768)
+click= 0
+
+actual_length=4
+(1024, 768)
+click= 0
+
+actual_length=4
+(1024, 768)
+click= 0
+
+actual_length=4
+(1023, 768)
+click= 0
+
+actual_length=4
+(1017, 768)
+click= 0
+
+actual_length=4
+(1002, 768)
+click= 0
+
+actual_length=4
+(982, 768)
+click= 0
+
+actual_length=4
+(955, 768)
+click= 0
+
+actual_length=4
+(923, 768)
+click= 0
+
+actual_length=4
+(884, 768)
+click= 0
+
+actual_length=4
+(842, 768)
+click= 0
+
+actual_length=4
+(796, 768)
+click= 0
+
+actual_length=4
+(746, 768)
+click= 0
+
+actual_length=4
+(692, 768)
+click= 0
+
+actual_length=4
+(636, 768)
+click= 0
+
+actual_length=4
+(575, 768)
+click= 0
+
+actual_length=4
+(513, 768)
+click= 0
+
+actual_length=4
+(448, 768)
+click= 0
+
+actual_length=4
+(383, 768)
+click= 0
+
+actual_length=4
+(320, 768)
+click= 0
+
+actual_length=4
+(259, 768)
+click= 0
+
+actual_length=4
+(203, 768)
+click= 0
+
+actual_length=4
+(153, 768)
+click= 0
+
+actual_length=4
+(111, 768)
+click= 0
+
+actual_length=4
+(76, 768)
+click= 0
+
+actual_length=4
+(50, 768)
+click= 0
+
+actual_length=4
+(30, 768)
+click= 0
+
+actual_length=4
+(18, 768)
+click= 0
+
+actual_length=4
+(14, 768)
+click= 0
+
+actual_length=4
+(16, 768)
+click= 0
+
+actual_length=4
+(26, 768)
+click= 0
+
+actual_length=4
+(44, 768)
+click= 0
+
+actual_length=4
+(68, 768)
+click= 0
+
+actual_length=4
+(100, 768)
+click= 0
+
+actual_length=4
+(139, 768)
+click= 0
+
+actual_length=4
+(186, 768)
+click= 0
+
+actual_length=4
+(237, 768)
+click= 0
+
+actual_length=4
+(294, 768)
+click= 0
+
+actual_length=4
+(354, 768)
+click= 0
+
+actual_length=4
+(417, 768)
+click= 0
+
+actual_length=4
+(482, 768)
+click= 0
+
+actual_length=4
+(547, 768)
+click= 0
+
+actual_length=4
+(613, 768)
+click= 0
+
+actual_length=4
+(678, 768)
+click= 0
+
+actual_length=4
+(746, 768)
+click= 0
+
+actual_length=4
+(814, 768)
+click= 0
+
+actual_length=4
+(884, 768)
+click= 0
+
+actual_length=4
+(958, 768)
+click= 0
+
+actual_length=4
+(1024, 768)
+click= 0
+
+actual_length=4
+(1024, 768)
+click= 0
+
+actual_length=4
+(1024, 768)
+click= 0
+
+actual_length=4
+(1024, 768)
+click= 0
+
+actual_length=4
+(1024, 768)
+click= 0
+
+actual_length=4
+(1024, 768)
+click= 0
+
+actual_length=4
+(1024, 768)
+click= 0
+
+actual_length=4
+(1024, 768)
+click= 0
+
+actual_length=4
+(1024, 768)
+click= 0
+
+actual_length=4
+(1024, 768)
+click= 0
+
+actual_length=4
+(1024, 768)
+click= 0
+
+actual_length=4
+(1024, 768)
+click= 0
+
+actual_length=4
+(1024, 768)
+click= 0
+
+actual_length=4
+(1024, 768)
+click= 0
+
+actual_length=4
+(1024, 768)
+click= 0
+
+actual_length=4
+(1024, 768)
+click= 0
+
+actual_length=4
+(1024, 768)
+click= 0
+
+actual_length=4
+(1024, 768)
+click= 0
+
+actual_length=4
+(1024, 768)
+click= 0
+
+actual_length=4
+(1024, 768)
+click= 0
+
+actual_length=4
+(1024, 768)
+click= 0
+
+actual_length=4
+(1024, 768)
+click= 0
+
+actual_length=4
+(1024, 768)
+click= 0
+
+actual_length=4
+(1024, 768)
+click= 0
+
+actual_length=4
+(1024, 768)
+click= 0
+
+actual_length=4
+(1024, 768)
+click= 0
+
+actual_length=4
+(1024, 768)
+click= 0
+
+actual_length=4
+(1024, 768)
+click= 0
+
+actual_length=4
+(1024, 768)
+click= 0
+
+actual_length=4
+(1024, 768)
+click= 0
+
+actual_length=4
+(1024, 768)
+click= 0
+
+actual_length=4
+(1024, 768)
+click= 0
+
+actual_length=4
+(1024, 768)
+click= 0
+
+actual_length=4
+(1024, 768)
+click= 0
+
+actual_length=4
+(1024, 768)
+click= 0
+
+actual_length=4
+(1024, 768)
+click= 0
+
+actual_length=4
+(1024, 768)
+click= 0
+
+actual_length=4
+(1024, 768)
+click= 0
+
+actual_length=4
+(1024, 768)
+click= 0
+
+actual_length=4
+(1024, 768)
+click= 0
+
+actual_length=4
+(1024, 768)
+click= 0
+
+actual_length=4
+(1024, 768)
+click= 0
+
+actual_length=4
+(1024, 768)
+click= 0
+
+actual_length=4
+(1024, 768)
+click= 0
+
+actual_length=4
+(1024, 768)
+click= 0
+
+actual_length=4
+(1024, 768)
+click= 0
+
+actual_length=4
+(1024, 768)
+click= 0
+
+actual_length=4
+(1023, 768)
+click= 0
+
+actual_length=4
+(1020, 768)
+click= 0
+
+actual_length=4
+(1015, 768)
+click= 0
+
+actual_length=4
+(1009, 768)
+click= 0
+
+actual_length=4
+(1002, 768)
+click= 0
+
+actual_length=4
+(993, 768)
+click= 0
+
+actual_length=4
+(983, 768)
+click= 0
+
+actual_length=4
+(971, 768)
+click= 0
+
+actual_length=4
+(958, 768)
+click= 0
+
+actual_length=4
+(945, 768)
+click= 0
+
+actual_length=4
+(932, 768)
+click= 0
+
+actual_length=4
+(917, 768)
+click= 0
+
+actual_length=4
+(903, 768)
+click= 0
+
+actual_length=4
+(888, 768)
+click= 0
+
+actual_length=4
+(872, 768)
+click= 0
+
+actual_length=4
+(858, 768)
+click= 0
+
+actual_length=4
+(844, 768)
+click= 0
+
+actual_length=4
+(832, 768)
+click= 0
+
+actual_length=4
+(821, 768)
+click= 0
+
+actual_length=4
+(812, 768)
+click= 0
+
+actual_length=4
+(803, 768)
+click= 0
+
+actual_length=4
+(796, 768)
+click= 0
+
+actual_length=4
+(791, 768)
+click= 0
+
+actual_length=4
+(786, 768)
+click= 0
+
+actual_length=4
+(782, 768)
+click= 0
+
+actual_length=4
+(779, 768)
+click= 0
+
+actual_length=4
+(777, 768)
+click= 0
+
+actual_length=4
+(775, 768)
+click= 0
+
+actual_length=4
+(774, 768)
+click= 2
+
+actual_length=4
+(773, 768)
+click= 2
+
+actual_length=4
+(773, 768)
+click= 2
+
+actual_length=4
+(772, 768)
+click= 2
+
+actual_length=4
+(772, 768)
+click= 2
+
+actual_length=4
+(771, 768)
+click= 2
+
+actual_length=4
+(771, 768)
+click= 2
+
+actual_length=4
+(770, 768)
+click= 2
+
+actual_length=4
+(770, 768)
+click= 2
+
+actual_length=4
+(769, 768)
+click= 2
+
+actual_length=4
+(767, 768)
+click= 2
+
+actual_length=4
+(766, 768)
+click= 2
+
+actual_length=4
+(764, 768)
+click= 2
+
+actual_length=4
+(762, 768)
+click= 2
+
+actual_length=4
+(759, 768)
+click= 2
+
+actual_length=4
+(756, 768)
+click= 2
+
+actual_length=4
+(752, 768)
+click= 2
+
+actual_length=4
+(747, 768)
+click= 2
+
+actual_length=4
+(742, 768)
+click= 2
+
+actual_length=4
+(736, 768)
+click= 2
+
+actual_length=4
+(730, 768)
+click= 1
+
+actual_length=4
+(723, 768)
+click= 1
+
+actual_length=4
+(716, 768)
+click= 1
+
+actual_length=4
+(708, 768)
+click= 1
+
+actual_length=4
+(699, 768)
+click= 1
+
+actual_length=4
+(691, 768)
+click= 1
+
+actual_length=4
+(682, 768)
+click= 1
+
+actual_length=4
+(674, 768)
+click= 1
+
+actual_length=4
+(667, 768)
+click= 1
+
+actual_length=4
+(660, 768)
+click= 1
+
+actual_length=4
+(654, 768)
+click= 1
+
+actual_length=4
+(648, 768)
+click= 1
+
+actual_length=4
+(643, 768)
+click= 1
+
+actual_length=4
+(639, 768)
+click= 1
+
+actual_length=4
+(634, 768)
+click= 1
+
+actual_length=4
+(629, 768)
+click= 1
+
+actual_length=4
+(625, 768)
+click= 1
+
+actual_length=4
+(620, 768)
+click= 1
+
+actual_length=4
+(615, 768)
+click= 1
+
+actual_length=4
+(610, 768)
+click= 1
+
+actual_length=4
+(604, 768)
+click= 1
+
+actual_length=4
+(598, 768)
+click= 1
+
+actual_length=4
+(591, 768)
+click= 1
+
+actual_length=4
+(584, 768)
+click= 1
+
+actual_length=4
+(576, 768)
+click= 1
+
+actual_length=4
+(567, 768)
+click= 1
+
+actual_length=4
+(558, 768)
+click= 1
+
+actual_length=4
+(547, 768)
+click= 1
+
+actual_length=4
+(536, 768)
+click= 1
+
+actual_length=4
+(524, 768)
+click= 1
+
+actual_length=4
+(511, 768)
+click= 1
+
+actual_length=4
+(496, 768)
+click= 2
+
+actual_length=4
+(481, 768)
+click= 2
+
+actual_length=4
+(464, 768)
+click= 2
+
+actual_length=4
+(445, 768)
+click= 2
+
+actual_length=4
+(424, 768)
+click= 2
+
+actual_length=4
+(401, 768)
+click= 2
+
+actual_length=4
+(377, 768)
+click= 2
+
+actual_length=4
+(351, 768)
+click= 2
+
+actual_length=4
+(323, 765)
+click= 2
+
+actual_length=4
+(293, 762)
+click= 2
+
+actual_length=4
+(263, 757)
+click= 2
+
+actual_length=4
+(232, 752)
+click= 2
+
+actual_length=4
+(200, 745)
+click= 2
+
+actual_length=4
+(169, 736)
+click= 2
+
+actual_length=4
+(138, 727)
+click= 2
+
+actual_length=4
+(107, 717)
+click= 2
+
+actual_length=4
+(76, 708)
+click= 2
+
+actual_length=4
+(45, 698)
+click= 2
+
+actual_length=4
+(14, 688)
+click= 1
+
+actual_length=4
+(0, 677)
+click= 1
+
+actual_length=4
+(0, 666)
+click= 1
+
+actual_length=4
+(0, 655)
+click= 1
+
+actual_length=4
+(0, 644)
+click= 1
+
+actual_length=4
+(0, 633)
+click= 1
+
+actual_length=4
+(0, 619)
+click= 1
+
+actual_length=4
+(0, 605)
+click= 1
+
+actual_length=4
+(0, 589)
+click= 1
+
+actual_length=4
+(0, 573)
+click= 1
+
+actual_length=4
+(0, 555)
+click= 1
+
+actual_length=4
+(0, 535)
+click= 1
+
+actual_length=4
+(0, 512)
+click= 1
+
+actual_length=4
+(0, 487)
+click= 1
+
+actual_length=4
+(0, 460)
+click= 1
+
+actual_length=4
+(0, 431)
+click= 1
+
+actual_length=4
+(0, 399)
+click= 1
+
+actual_length=4
+(0, 364)
+click= 1
+
+actual_length=4
+(0, 327)
+click= 1
+
+actual_length=4
+(0, 288)
+click= 0
+
+actual_length=4
+(0, 248)
+click= 0
+
+actual_length=4
+(0, 206)
+click= 0
+
+actual_length=4
+(0, 165)
+click= 0
+
+actual_length=4
+(0, 123)
+click= 0
+
+actual_length=4
+(0, 84)
+click= 0
+
+actual_length=4
+(0, 45)
+click= 0
+
+actual_length=4
+(0, 7)
+click= 0
+
+actual_length=4
+(0, 0)
+click= 0
+
+actual_length=4
+(0, 0)
+click= 0
+
+actual_length=4
+(0, 0)
+click= 0
+
+actual_length=4
+(0, 0)
+click= 0
+
+actual_length=4
+(0, 0)
+click= 0
+
+actual_length=4
+(0, 0)
+click= 0
+
+actual_length=4
+(0, 0)
+click= 0
+
+actual_length=4
+(0, 0)
+click= 0
+
+actual_length=4
+(0, 0)
+click= 0
+
+actual_length=4
+(0, 0)
+click= 0
+
+actual_length=4
+(0, 0)
+click= 0
+
+actual_length=4
+(0, 0)
+click= 0
+
+actual_length=4
+(0, 0)
+click= 0
+
+actual_length=4
+(0, 0)
+click= 0
+
+actual_length=4
+(0, 0)
+click= 0
+
+actual_length=4
+(0, 0)
+click= 0
+
+actual_length=4
+(0, 0)
+click= 0
+
+actual_length=4
+(0, 0)
+click= 0
+
+actual_length=4
+(0, 0)
+click= 0
+
+actual_length=4
+(0, 0)
+click= 0
+
+actual_length=4
+(0, 0)
+click= 0
+
+actual_length=4
+(0, 0)
+click= 0
+
+actual_length=4
+(0, 0)
+click= 0
+
+actual_length=4
+(0, 0)
+click= 0
+
+actual_length=4
+(0, 0)
+click= 0
+
+actual_length=4
+(0, 0)
+click= 0
+
+actual_length=4
+(0, 0)
+click= 0
+
+actual_length=4
+(0, 0)
+click= 0
+
+actual_length=4
+(0, 0)
+click= 0
+
+actual_length=4
+(0, 0)
+click= 0
+
+actual_length=4
+(0, 0)
+click= 0
+
+actual_length=4
+(0, 0)
+click= 0
+
+actual_length=4
+(0, 0)
+click= 0
+
+actual_length=4
+(0, 0)
+click= 0
+
+actual_length=4
+(0, 0)
+click= 0
+
+actual_length=4
+(0, 0)
+click= 0
+
+actual_length=4
+(0, 0)
+click= 0
+
+actual_length=4
+(0, 0)
+click= 0
+
+actual_length=4
+(0, 0)
+click= 0
+
+actual_length=4
+(2, 0)
+click= 0
+
+actual_length=4
+(6, 0)
+click= 0
+
+actual_length=4
+(11, 0)
+click= 0
+
+actual_length=4
+(18, 0)
+click= 0
+
+actual_length=4
+(26, 0)
+click= 0
+
+actual_length=4
+(37, 0)
+click= 0
+
+actual_length=4
+(51, 0)
+click= 0
+
+actual_length=4
+(66, 0)
+click= 0
+
+actual_length=4
+(81, 0)
+click= 0
+
+actual_length=4
+(98, 0)
+click= 0
+
+actual_length=4
+(116, 0)
+click= 0
+
+actual_length=4
+(136, 0)
+click= 0
+
+actual_length=4
+(158, 0)
+click= 0
+
+actual_length=4
+(182, 0)
+click= 0
+
+actual_length=4
+(205, 0)
+click= 0
+
+actual_length=4
+(229, 0)
+click= 0
+
+actual_length=4
+(253, 0)
+click= 0
+
+actual_length=4
+(277, 0)
+click= 0
+
+actual_length=4
+(301, 0)
+click= 0
+
+actual_length=4
+(323, 0)
+click= 0
+
+actual_length=4
+(344, 0)
+click= 0
+
+actual_length=4
+(364, 0)
+click= 0
+
+actual_length=4
+(383, 0)
+click= 0
+
+actual_length=4
+(400, 0)
+click= 0
+
+actual_length=4
+(415, 0)
+click= 0
+
+actual_length=4
+(430, 0)
+click= 0
+
+actual_length=4
+(442, 0)
+click= 0
+
+actual_length=4
+(453, 0)
+click= 0
+
+actual_length=4
+(461, 0)
+click= 0
+
+actual_length=4
+(468, 0)
+click= 0
+
+actual_length=4
+(473, 0)
+click= 0
+
+actual_length=4
+(478, 0)
+click= 1
+
+actual_length=4
+(481, 0)
+click= 1
+
+actual_length=4
+(483, 0)
+click= 1
+
+actual_length=4
+(485, 0)
+click= 1
+
+actual_length=4
+(486, 0)
+click= 1
+
+actual_length=4
+(486, 0)
+click= 1
+
+actual_length=4
+(486, 0)
+click= 2
+
+actual_length=4
+(487, 0)
+click= 2
+
+actual_length=4
+(487, 0)
+click= 2
+
+actual_length=4
+(488, 0)
+click= 2
+
+actual_length=4
+(488, 0)
+click= 2
+
+actual_length=4
+(490, 0)
+click= 2
+
+actual_length=4
+(492, 0)
+click= 2
+
+actual_length=4
+(495, 0)
+click= 2
+
+actual_length=4
+(500, 0)
+click= 2
+
+actual_length=4
+(506, 1)
+click= 2
+
+actual_length=4
+(514, 2)
+click= 2
+
+actual_length=4
+(525, 4)
+click= 2
+
+actual_length=4
+(538, 7)
+click= 2
+
+actual_length=4
+(553, 11)
+click= 2
+
+actual_length=4
+(568, 16)
+click= 2
+
+actual_length=4
+(584, 21)
+click= 2
+
+actual_length=4
+(601, 27)
+click= 2
+
+actual_length=4
+(616, 34)
+click= 0
+
+actual_length=4
+(631, 42)
+click= 0
+
+actual_length=4
+(645, 50)
+click= 0
+
+actual_length=4
+(658, 59)
+click= 0
+
+actual_length=4
+(670, 69)
+click= 1
+
+actual_length=4
+(681, 80)
+click= 1
+
+actual_length=4
+(692, 91)
+click= 1
+
+actual_length=4
+(702, 103)
+click= 1
+
+actual_length=4
+(713, 114)
+click= 1
+
+actual_length=4
+(723, 126)
+click= 1
+
+actual_length=4
+(732, 137)
+click= 1
+
+actual_length=4
+(740, 148)
+click= 1
+
+actual_length=4
+(748, 159)
+click= 1
+
+actual_length=4
+(755, 170)
+click= 1
+
+actual_length=4
+(760, 180)
+click= 1
+
+actual_length=4
+(765, 190)
+click= 1
+
+actual_length=4
+(770, 199)
+click= 1
+
+actual_length=4
+(774, 208)
+click= 1
+
+actual_length=4
+(777, 218)
+click= 1
+
+actual_length=4
+(780, 227)
+click= 1
+
+actual_length=4
+(782, 237)
+click= 1
+
+actual_length=4
+(783, 246)
+click= 1
+
+actual_length=4
+(785, 256)
+click= 1
+
+actual_length=4
+(786, 267)
+click= 1
+
+actual_length=4
+(786, 278)
+click= 1
+
+actual_length=4
+(786, 289)
+click= 2
+
+actual_length=4
+(786, 301)
+click= 2
+
+actual_length=4
+(786, 314)
+click= 2
+
+actual_length=4
+(786, 327)
+click= 2
+
+actual_length=4
+(786, 341)
+click= 2
+
+actual_length=4
+(786, 357)
+click= 2
+
+actual_length=4
+(786, 374)
+click= 2
+
+actual_length=4
+(786, 392)
+click= 2
+
+actual_length=4
+(786, 410)
+click= 2
+
+actual_length=4
+(786, 429)
+click= 2
+
+actual_length=4
+(786, 450)
+click= 2
+
+actual_length=4
+(785, 472)
+click= 2
+
+actual_length=4
+(782, 494)
+click= 2
+
+actual_length=4
+(779, 516)
+click= 2
+
+actual_length=4
+(774, 539)
+click= 2
+
+actual_length=4
+(767, 563)
+click= 2
+
+actual_length=4
+(757, 587)
+click= 2
+
+actual_length=4
+(746, 612)
+click= 2
+
+actual_length=4
+(732, 638)
+click= 1
+
+actual_length=4
+(715, 663)
+click= 1
+
+actual_length=4
+(695, 689)
+click= 1
+
+actual_length=4
+(673, 715)
+click= 1
+
+actual_length=4
+(648, 740)
+click= 1
+
+actual_length=4
+(622, 765)
+click= 1
+
+actual_length=4
+(593, 768)
+click= 1
+
+actual_length=4
+(562, 768)
+click= 1
+
+actual_length=4
+(530, 768)
+click= 1
+
+actual_length=4
+(496, 768)
+click= 1
+
+actual_length=4
+(461, 768)
+click= 1
+
+actual_length=4
+(426, 768)
+click= 1
+
+actual_length=4
+(391, 768)
+click= 1
+
+actual_length=4
+(355, 768)
+click= 1
+
+actual_length=4
+(319, 768)
+click= 0
+
+actual_length=4
+(284, 768)
+click= 0
+
+actual_length=4
+(251, 768)
+click= 0
+
+actual_length=4
+(218, 768)
+click= 0
+
+actual_length=4
+(185, 768)
+click= 0
+
+actual_length=4
+(152, 768)
+click= 0
+
+actual_length=4
+(120, 768)
+click= 0
+
+actual_length=4
+(89, 768)
+click= 0
+
+actual_length=4
+(58, 768)
+click= 0
+
+actual_length=4
+(27, 768)
+click= 0
+
+actual_length=4
+(0, 768)
+click= 0
+
+actual_length=4
+(0, 768)
+click= 0
+
+actual_length=4
+(0, 766)
+click= 0
+
+actual_length=4
+(0, 762)
+click= 0
+
+actual_length=4
+(0, 757)
+click= 0
+
+actual_length=4
+(0, 750)
+click= 0
+
+actual_length=4
+(0, 739)
+click= 0
+
+actual_length=4
+(0, 726)
+click= 0
+
+actual_length=4
+(0, 709)
+click= 0
+
+actual_length=4
+(0, 690)
+click= 0
+
+actual_length=4
+(0, 669)
+click= 0
+
+actual_length=4
+(0, 646)
+click= 0
+
+actual_length=4
+(0, 622)
+click= 0
+
+actual_length=4
+(0, 598)
+click= 0
+
+actual_length=4
+(0, 575)
+click= 0
+
+actual_length=4
+(0, 552)
+click= 0
+
+actual_length=4
+(0, 530)
+click= 0
+
+actual_length=4
+(0, 510)
+click= 0
+
+actual_length=4
+(0, 491)
+click= 0
+
+actual_length=4
+(0, 474)
+click= 0
+
+actual_length=4
+(0, 458)
+click= 0
+
+actual_length=4
+(0, 445)
+click= 0
+
+actual_length=4
+(0, 433)
+click= 0
+
+actual_length=4
+(0, 422)
+click= 0
+
+actual_length=4
+(0, 412)
+click= 0
+
+actual_length=4
+(0, 404)
+click= 0
+
+actual_length=4
+(0, 398)
+click= 0
+
+actual_length=4
+(0, 393)
+click= 0
+
+actual_length=4
+(0, 389)
+click= 0
+
+actual_length=4
+(0, 386)
+click= 2
+
+actual_length=4
+(1, 384)
+click= 2
+
+actual_length=4
+(1, 384)
+click= 2
+
+actual_length=4
+(1, 383)
+click= 2
+
+actual_length=4
+(1, 383)
+click= 2
+
+actual_length=4
+(1, 382)
+click= 2
+
+actual_length=4
+(1, 382)
+click= 0
+
+actual_length=4
+(1, 380)
+click= 0
+
+actual_length=4
+(2, 378)
+click= 0
+
+actual_length=4
+(4, 377)
+click= 0
+
+actual_length=4
+(6, 375)
+click= 0
+
+actual_length=4
+(8, 373)
+click= 0
+
+actual_length=4
+(10, 371)
+click= 0
+
+actual_length=4
+(12, 370)
+click= 0
+
+actual_length=4
+(12, 370)
+click= 0
+
+actual_length=0
+Exiting....
